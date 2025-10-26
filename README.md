@@ -31,19 +31,17 @@ Through my work at **Mekelle University-Mekelle Institute of Technology and Pent
 
 ### 🏆 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mezgebohailu&show_icons=true&theme=tokyonight)
-
----
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MezgeboH&show_icons=true&theme=tokyonight)
 
 ### 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINK)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mezgebohailu)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MezgeboH)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mezgebohailu@gmail.com)
 
 ---
 
 ### ✨ Vision
-> *“Empowering people through digital skills and ethical technology — because development starts with knowledge.”*
+> *“Empowering people through digital skills and ethical technology — because knowledge of digital technologies is very crucial in the 21st century.”*
 
 
